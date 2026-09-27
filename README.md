@@ -28,5 +28,5 @@ A full-stack real-time chat app built with **React (Vite)** + **Node.js + Expres
 
 ### 1. Clone
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jinitpatel18/Chat-App.git
 cd chat-app
